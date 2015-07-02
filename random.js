@@ -1,4 +1,5 @@
 //Math.random() devueve numero aleatorio entre 0 y 1.
+//y devueve un numero entre 0 y 100
 var numero=Math.random();
 if(numero<=0.5){
 		console.log('\n'+numero+' menor que 0,5\n\t'+randomnumber(numero)+'\n')
