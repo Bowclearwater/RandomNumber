@@ -8,5 +8,5 @@ else{
 }
 function randomnumber(n){
 			n*=100;
-			return n.toFixed(2);
+			return n.toFixed(0);
 		}
